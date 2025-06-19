@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "homepage": "https://sarahmacnam.github.io/e-plantShopping/,
+    "homepage": "https://sarahmacnam.github.io/,
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "build": "vite build",
